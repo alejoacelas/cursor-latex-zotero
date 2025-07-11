@@ -1,0 +1,7 @@
+Title: Comparing risk from internally-deployed AI to insider and outsider threats from humans
+Author: Buck
+Year: 2025
+Type: journalArticle
+Citation Key: 2R6I9UZ5
+Zotero Key: 2R6I9UZ5
+URL: https://www.lesswrong.com/posts/DCQ8GfzCqoBzgziew/comparing-risk-from-internally-deployed-ai-to-insider-and
